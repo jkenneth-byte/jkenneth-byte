@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jess Kenneth Febrero Lacorte
-**Application Developer & Frontend Engineer**
+**Junior Developer**
 
 <a href="mailto:lacortejkenneth@gmail.com"><img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/lacortejesskenneth/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
