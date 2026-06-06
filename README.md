@@ -1,12 +1,11 @@
 # Hi, I'm Ken
 **Junior Developer**
-
-<img src="https://github.com/jkenneth-byte/jkenneth-byte/blob/main/assets/hoppers-lizard.gif" width="600" alt="tom_hoppers" />
-
-I specialize in scalable application architecture and functional development. My focus is translating complex business requirements into robust, production-ready digital environments. Recently recognized as an "Outstanding Intern" at TechnoPH Systems & Integration Inc., I build responsive web applications that bridge underlying system workflows with intuitive user execution.
-
 <a href="mailto:lacortejkenneth@gmail.com"><img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/lacortejesskenneth/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+
+
+<img src="https://github.com/jkenneth-byte/jkenneth-byte/blob/main/assets/hoppers-lizard.gif" height="400" width="400" alt="tom_hoppers" />
+
 
 ### ⚙️ Technical Arsenal
 
