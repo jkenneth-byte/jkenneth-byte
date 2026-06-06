@@ -1,11 +1,18 @@
-# Hi, I'm Ken
-**Junior Developer**
+<div align="center">
+
+# Jess Kenneth Febrero Lacorte
+**Application Developer & Frontend Engineer**
+
 <a href="mailto:lacortejkenneth@gmail.com"><img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/lacortejesskenneth/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 
+<br><br>
 
-<img src="https://github.com/jkenneth-byte/jkenneth-byte/blob/main/assets/hoppers-lizard.gif" height="400" width="400" alt="tom_hoppers" />
+<img src="https://raw.githubusercontent.com/jkenneth-byte/jkenneth-byte/main/assets/hoppers-lizard.gif" height="400" width="400" alt="tom_hoppers" />
 
+</div>
+
+---
 
 ### ⚙️ Technical Arsenal
 
