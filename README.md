@@ -3,7 +3,9 @@
 # Jess Kenneth Febrero Lacorte
 **Junior Developer**
 
-<a href="mailto:lacortejkenneth@gmail.com"><img src="[https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcRwRQDkxmsszRDxGjrLJHdNXWTbwhwgVcHSGSZmJVvPHRNRHRgGgHmmrSBLTLblWfrCKHTlh)"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lacortejkenneth@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail" alt="Email">
+</a>
 <a href="https://www.linkedin.com/in/lacortejesskenneth/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 
 <br><br>
