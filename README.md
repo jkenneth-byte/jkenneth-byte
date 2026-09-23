@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jess Kenneth Febrero Lacorte
-**Junior Developer**
+**UI/UX Designer (Codes for fun)**
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lacortejkenneth@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail" alt="Email">
