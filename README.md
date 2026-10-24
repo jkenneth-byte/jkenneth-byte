@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- 1. CUSTOM GIF -->
-<!-- Adjust the width="" number if you want the GIF bigger or smaller -->
 <img src="assets/hoppers-lizard.gif" alt="Hoppers Lizard" width="400" />
 
 <p><em>A Junior UI/UX Designer and AI-Assisted Frontend Developer 🎨 ⚡</em></p>
 
-<!-- 3. FUN GIF / DIVIDER -->
+<!-- 2. FUN GIF / DIVIDER -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
 
 <br/>
@@ -25,15 +24,18 @@
 ### 🛠️ The Engineering Toolkit
 
 **Core Proficiencies** <br/>
-<!-- Beautiful floating graphic icons for your primary stack -->
+<!-- 'chakraui' is REMOVED from this link so the image doesn't break -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,js,ts,html,css,tailwind,bootstrap,chakra" alt="Core Stack" />
-</a> <br/>
+  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Core Stack" />
+</a> 
+<br/><br/>
+<!-- Custom badge just for Chakra UI since skillicons doesn't support it -->
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
 
+<br/>
 <br/>
 
 **Familiar With (Backend & Systems)** <br/>
-<!-- Floating graphic icons for your secondary stack -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,python,java,cs,php" alt="Familiar Stack" />
 </a>
@@ -43,7 +45,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Automatically pulls your live GitHub stats! -->
   <img src="https://github-readme-stats.vercel.app/api?username=jkenneth-byte&show_icons=true&theme=transparent&hide_border=true&title_color=319795&icon_color=319795&text_color=888888" alt="Jess's GitHub Stats" />
   
   <br/>
