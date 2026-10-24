@@ -27,9 +27,8 @@
 **Core Proficiencies** <br/>
 <!-- Beautiful floating graphic icons for your primary stack -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,js,ts,html,css,tailwind,bootstrap,chakra" alt="Core Stack" />
 </a> <br/>
-*(+ Chakra UI)*
 
 <br/>
 
