@@ -4,7 +4,7 @@
 <!-- Adjust the width="" number if you want the GIF bigger or smaller -->
 <img src="assets/hoppers-lizard.gif" alt="Hoppers Lizard" width="400" />
 
-<p><em>Bridging the gap between pixel-perfect design and robust Next.js application architecture. 🎨 ⚡</em></p>
+<p><em>A Junior UI/UX Designer and AI-Assisted Frontend Developer 🎨 ⚡</em></p>
 
 <!-- 3. FUN GIF / DIVIDER -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
