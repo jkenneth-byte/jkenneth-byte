@@ -1,34 +1,65 @@
 <div align="center">
 
-# Jess Kenneth Febrero Lacorte
-**UI/UX Designer/AI-Assisted Frontend Dev (Codes for fun)**
+<!-- 1. CUSTOM GIF -->
+<!-- Adjust the width="" number if you want the GIF bigger or smaller -->
+<img src="assets/hoppers-lizard.gif" alt="Hoppers Lizard" width="120" />
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lacortejkenneth@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-lacortejkenneth%40gmail.com-black?style=for-the-badge&logo=gmail" alt="Email">
+<p><em>Bridging the gap between pixel-perfect design and robust Next.js application architecture. 🎨 ⚡</em></p>
+
+<!-- 3. FUN GIF / DIVIDER -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
+
+<br/>
+<br/>
+
+</div>
+
+### 🧩 My Process & Philosophy
+- **01 / Discovery:** 🔍 UX Research & Wireframing
+- **02 / Visual Design:** ✨ High-Fidelity Prototyping (Figma)
+- **03 / Engineering:** 💻 Scalable Frontend Architecture (Next.js/React)
+- **04 / Assurance:** 🎯 UI/UX Quality Assurance
+
+---
+
+### 🛠️ The Engineering Toolkit
+
+**Core Proficiencies** <br/>
+<!-- Beautiful floating graphic icons for your primary stack -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Core Stack" />
+</a> <br/>
+*(+ Chakra UI)*
+
+<br/>
+
+**Familiar With (Backend & Systems)** <br/>
+<!-- Floating graphic icons for your secondary stack -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,python,java,cs,php" alt="Familiar Stack" />
 </a>
-<a href="https://www.linkedin.com/in/lacortejesskenneth/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/jkenneth-byte/jkenneth-byte/main/assets/hoppers-lizard.gif" height="400" width="400" alt="tom_hoppers" />
-<br><br>
+---
 
-### ⚙️ Technical Arsenal
-<br>
+### 📊 GitHub Activity
 
-**Frontend Engineering** <br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> 
+<div align="center">
+  <!-- Automatically pulls your live GitHub stats! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jkenneth-byte&show_icons=true&theme=transparent&hide_border=true&title_color=319795&icon_color=319795&text_color=888888" alt="Jess's GitHub Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkenneth-byte&theme=transparent&hide_border=true&title_color=319795&text_color=888888&icon_color=319795" alt="GitHub Streak" />
+</div>
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/chakra-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-
-<br><br>
-
-**Backend & Databases** <br>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-
-<br><br>
-
-**Prototyping & Architecture** <br>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### 📬 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/lacortejesskenneth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lacortejkenneth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
