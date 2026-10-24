@@ -2,7 +2,7 @@
 
 <!-- 1. CUSTOM GIF -->
 <!-- Adjust the width="" number if you want the GIF bigger or smaller -->
-<img src="assets/hoppers-lizard.gif" alt="Hoppers Lizard" width="120" />
+<img src="assets/hoppers-lizard.gif" alt="Hoppers Lizard" width="400" />
 
 <p><em>Bridging the gap between pixel-perfect design and robust Next.js application architecture. 🎨 ⚡</em></p>
 
